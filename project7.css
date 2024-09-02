@@ -1,0 +1,33 @@
+
+
+   
+     .topHeader {
+        margin-bottom: 0;
+        background-image: url("https://codingsteps.github.io/WebProg/images/BlackFriday.jpg");
+        height:380px;
+        background-position: right center;
+        background-size: cover;
+        background-repeat: no-repeat;
+  
+      }
+  
+  
+      .container-fluid{text-align:center;background-color: maroon;color:antiquewhite;font-family: Arial;letter-spacing: 1px;}
+  
+      .container{margin-top:40px;}
+  
+      .card{margin-top:40px;}
+  
+      .card>.card-title{background-color: white;color:maroon;text-align: center;}
+     
+      .card-body > img{width:30%;height:280px;}
+  
+      .form-inline{justify-content: center;}
+     
+      footer {
+        background-color: #f2f2f2;
+        padding: 25px;
+      }
+  
+  
+    
